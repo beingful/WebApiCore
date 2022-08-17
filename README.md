@@ -1,6 +1,6 @@
-<h1 align="center">
-  Web Service with one GET method processing the request according to data type.
-</h1>
+<h2 align="center">
+  Web Service with one GET method processing the request according to data type
+</h2>
 <ul>
   <li>
     <h3>Index page.</h3>
