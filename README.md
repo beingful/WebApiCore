@@ -1,5 +1,5 @@
 <h3 align="center">
-  Web Service with one GET method processing the request according to data type
+  Web Service with one GET method processing the request according to its data type
 </h3>
 <ul>
   <li>
