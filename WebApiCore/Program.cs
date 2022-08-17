@@ -1,5 +1,3 @@
-Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("en-US");
-
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
