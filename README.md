@@ -1,6 +1,4 @@
-# WebApiCore
- Web Service with one GET method
- <h1 align="center">
+<h1 align="center">
   Web Service with one GET method processing the request according to data type.
 </h1>
 <ul>
